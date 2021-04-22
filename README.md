@@ -1,0 +1,2 @@
+# penjualanbarang
+tugas
