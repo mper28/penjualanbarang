@@ -1,2 +1,2 @@
 # penjualanbarang
-tugas
+Penjualan Barang di toko x Tugas6
